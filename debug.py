@@ -1,5 +1,5 @@
 import database
 import edit
 
-database.check_folder("ssw")
-edit.add_country("ssw")
+database.check_folder("GR")
+edit.add_country("GR")

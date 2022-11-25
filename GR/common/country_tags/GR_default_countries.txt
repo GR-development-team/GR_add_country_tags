@@ -1,0 +1,27 @@
+#Asia
+DVN	= "countries/Asia.txt"	#ドラヴィダ・ナードゥ
+FNG	= "countries/Asia.txt"	#奉天
+HND	= "countries/Asia.txt"	#ヒンドゥスタン
+NAJ	= "countries/Asia.txt"	#ナジュド
+SIU	= "countries/Asia.txt"	#四川
+TAR	= "countries/Asia.txt"	#トランスアムール
+TNG	= "countries/Asia.txt"	#タンガニスタン
+ZHI	= "countries/Asia.txt"	#直隷
+
+#Middle East
+ARB	= "countries/Middle East.txt"	#アラブ
+HAS	= "countries/Middle East.txt"	#ハシーム
+OTT	= "countries/Middle East.txt"	#オスマン
+
+#Commonwealth
+
+#Western Europe
+GBR	= "countries/Western Europe.txt"	#グレートブリテン
+
+#Eastern Europe
+RAT	= "countries/Eastern Europe.txt"	#レーテ
+SDT	= "countries/Eastern Europe.txt"	#ズデーテン
+
+#Africa
+
+#South America

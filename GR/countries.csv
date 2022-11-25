@@ -89,12 +89,12 @@ GYA,ガイアナ,255 204 153,South America,新大陸,バニラ
 HAI,ハイチ,174 113 113,South America,新大陸,バニラ
 HAN,ハノーファー,255 206 8,Western Europe,ヨーロッパ,バニラ
 HAW,ハワイ,239 239 0,Asia,大洋州,バニラ
-HND,ヒンドゥスタン,239 201 2,Asia,アジア,バニラ
 HOL,ホラント,255 154 0,Western Europe,ヨーロッパ,バニラ
 HON,ホンジュラス,128 145 65,South America,新大陸,バニラ
 HRZ,ヘルツェゴビナ,3 102 56,Eastern Europe,ヨーロッパ,バニラ
 HUN,ハンガリー,205 42 62,Eastern Europe,ヨーロッパ,バニラ
 ICE,アイスランド,100 125 175,Western Europe,ヨーロッパ,バニラ
+IND,インド,255 102 0,Asia,アジア,バニラ
 INS,インドネシア,40 50 120,Asia,アジア,バニラ
 IRE,アイルランド,22 155 98,Western Europe,ヨーロッパ,バニラ
 IRQ,イラク,178 114 99,Middle East,アジア,バニラ
@@ -242,7 +242,7 @@ DVN,ドラヴィダ・ナードゥ,128 0 0,Asia,アジア,追加国家
 FNG,奉天,189 113 33,Asia,アジア,追加国家
 GBR,グレートブリテン,201 56 93,Western Europe,ヨーロッパ,追加国家
 HAS,ハシーム,163 30 35,Middle East,アジア,追加国家
-IND,インド,255 102 0,Asia,アジア,追加国家
+HND,ヒンドゥスタン,239 201 2,Asia,アジア,追加国家
 NAJ,ナジュド,13 98 62,Asia,アジア,追加国家
 OTT,オスマン,203 32 39,Middle East,アジア,追加国家
 RAT,レーテ,147 0 0,Eastern Europe,ヨーロッパ,追加国家
