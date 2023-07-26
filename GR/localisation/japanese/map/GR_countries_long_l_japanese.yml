@@ -149,8 +149,8 @@
  SIA_kingdom:0 "シャム王国"
  SIA_kingdom_DEF:0 "シャム王国"
  
- SIK_ma_warlord:0 "新彊馬軍閥"
- SIK_ma_warlord_DEF:0 "新彊馬軍閥"
+ SIK_ma_military_clique:0 "新彊馬軍閥"
+ SIK_ma_military_clique_DEF:0 "新彊馬軍閥"
  SIK_warlord:0 "新彊軍閥"
  SIK_warlord_DEF:0 "新彊軍閥"
  
@@ -771,6 +771,9 @@
  FNG_warlord:0 "奉天軍閥"
  FNG_warlord_DEF:0 "奉天軍閥"
  
+ GAN_ma_military_clique:0 "甘粛馬軍閥"
+ GAN_ma_military_clique_DEF:0 "甘粛馬軍閥"
+ 
  HAS_kingdom:0 "ハシーム王国"
  HAS_kingdom_DEF:0 "ハシーム王国"
  
@@ -780,8 +783,14 @@
  NAJ_kingdom:0 "ナジュド王国"
  NAJ_kingdom_DEF:0 "ナジュド王国"
  
+ NIG_ma_military_clique:0 "寧夏馬軍閥"
+ NIG_ma_military_clique_DEF:0 "寧夏馬軍閥"
+ 
  OTT_sublime_state:0 "崇高なるオスマン国"
  OTT_sublime_state_DEF:0 "崇高なるオスマン国"
+ 
+ QIG_ma_military_clique:0 "青海馬軍閥"
+ QIG_ma_military_clique_DEF:0 "青海馬軍閥"
  
  SIU_warlord:0 "四川軍閥"
  SIU_warlord_DEF:0 "四川軍閥"

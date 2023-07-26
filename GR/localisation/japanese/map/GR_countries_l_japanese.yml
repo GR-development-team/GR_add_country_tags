@@ -972,6 +972,10 @@
  FNG_DEF:0 "奉天"
  FNG_ADJ:0 "奉天"
  
+ GAN:0 "甘粛"
+ GAN_DEF:0 "甘粛"
+ GAN_ADJ:0 "甘粛"
+ 
  HAS:0 "ハシーム"
  HAS_DEF:0 "ハシーム"
  HAS_ADJ:0 "ハシーム"
@@ -984,9 +988,17 @@
  NAJ_DEF:0 "ナジュド"
  NAJ_ADJ:0 "ナジュド"
  
+ NIG:0 "寧夏"
+ NIG_DEF:0 "寧夏"
+ NIG_ADJ:0 "寧夏"
+ 
  OTT:0 "オスマン"
  OTT_DEF:0 "オスマン"
  OTT_ADJ:0 "オスマン"
+ 
+ QIG:0 "青海"
+ QIG_DEF:0 "青海"
+ QIG_ADJ:0 "青海"
  
  SIU:0 "四川"
  SIU_DEF:0 "四川"

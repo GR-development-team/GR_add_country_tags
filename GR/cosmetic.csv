@@ -206,7 +206,7 @@ SHL,duchy,,公国
 SHX,warlord,,軍閥
 SIA,kingdom,,王国
 SIE,republic,,共和国
-SIK,ma_warlord,,馬軍閥
+SIK,ma_military_clique,,馬軍閥
 SIK,warlord,,軍閥
 SIL,duchy,,公国
 SIL,republic,,共和国
@@ -272,3 +272,6 @@ YUN,warlord,,軍閥
 ZAM,republic,,共和国
 ZHI,warlord,,軍閥
 ZIM,republic,,共和国
+GAN,ma_military_clique,,馬軍閥
+NIG,ma_military_clique,,馬軍閥
+QIG,ma_military_clique,,馬軍閥

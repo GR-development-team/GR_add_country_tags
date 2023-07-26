@@ -241,8 +241,8 @@ VLA = {	#ウラジオストク
 	color_ui = rgb { 20 134 20 }
 }
 XIB = {	#西北
-	color = rgb { 105 69 85 }
-	color_ui = rgb { 105 69 85 }
+	color = rgb { 70 170 180 }
+	color_ui = rgb { 70 170 180 }
 }
 YAM = {	#ヤマリア
 	color = rgb { 0 128 255 }
@@ -977,6 +977,10 @@ FNG = {	#奉天
 	color = rgb { 189 113 33 }
 	color_ui = rgb { 189 113 33 }
 }
+GAN = {	#甘粛
+	color = rgb { 153 116 53 }
+	color_ui = rgb { 153 116 53 }
+}
 HAS = {	#ハシーム
 	color = rgb { 163 30 35 }
 	color_ui = rgb { 163 30 35 }
@@ -989,9 +993,17 @@ NAJ = {	#ナジュド
 	color = rgb { 13 98 62 }
 	color_ui = rgb { 13 98 62 }
 }
+NIG = {	#寧夏
+	color = rgb { 105 69 85 }
+	color_ui = rgb { 105 69 85 }
+}
 OTT = {	#オスマン
 	color = rgb { 203 32 39 }
 	color_ui = rgb { 203 32 39 }
+}
+QIG = {	#青海
+	color = rgb { 114 71 24 }
+	color_ui = rgb { 114 71 24 }
 }
 SIU = {	#四川
 	color = rgb { 188 155 71 }
